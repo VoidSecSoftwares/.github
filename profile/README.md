@@ -1,6 +1,6 @@
 
 
-![VoidSec](voidsec.png)
+![VoidSec](Voidsec.png)
 
 **Building and maintaining open source projects.**
 
